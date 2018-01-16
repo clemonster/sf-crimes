@@ -1,5 +1,5 @@
 # sf-crimes
-Data descriptions, visualisations and model fitting on San Francisco crime data from 2003 to 2014. 
+Data exploration, visualisations and model fitting on San Francisco crime data from 2003 to 2014. 
 
 See the jupyter notebook (ipynb file) for the full report.  
 
